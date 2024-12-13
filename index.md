@@ -1,3 +1,3 @@
 こんにちは
 
-![猫の画像](./IMG_0387.JPG)
+このホームページのソースコードは[こちら](https://github.com/ChiekoHata/SamplePages/)
